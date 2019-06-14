@@ -1,0 +1,1 @@
+scp -r rzonca@172.30.254.45:~/proj/DANEOUT .
